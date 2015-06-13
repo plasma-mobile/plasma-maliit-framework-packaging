@@ -1,0 +1,36 @@
+plasma-maliit-framework (0.0+git20150609-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Build in on-demand
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 13 Jun 2015 03:19:39 +0200
+
+plasma-maliit-framework (0.0+git20150609-0ubuntu1~ubuntu15.04~ppa5) vivid; urgency=medium
+
+  * remove recommends 
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 09 Jun 2015 22:38:00 +0000
+
+plasma-maliit-framework (0.0+git20150609-0ubuntu1~ubuntu15.04~ppa4) vivid; urgency=medium
+
+  * also build input plugin 
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 09 Jun 2015 20:58:28 +0000
+
+plasma-maliit-framework (0.0+git20150609-0ubuntu1~ubuntu15.04~ppa3) vivid; urgency=medium
+
+  * Add qtwayland5
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 09 Jun 2015 17:17:47 +0000
+
+plasma-maliit-framework (0.0+git20150609-0ubuntu1~ubuntu15.04~ppa2) vivid; urgency=medium
+
+  * Add deps 
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 09 Jun 2015 17:08:38 +0000
+
+plasma-maliit-framework (0.0+git20150609-0ubuntu1~ubuntu15.04~ppa1) vivid; urgency=medium
+
+  * Initial package
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 09 Jun 2015 15:53:38 +0000
+
