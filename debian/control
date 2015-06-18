@@ -6,6 +6,7 @@ XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
 Build-Depends: debhelper (>= 9),
                kwayland-dev,
                libdbus-1-dev,
+               libkf5archive-dev,
                libmtdev-dev,
                libpulse-mainloop-glib0,
                libudev-dev,
