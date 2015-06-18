@@ -4,6 +4,7 @@ Priority: extra
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
 Build-Depends: debhelper (>= 9),
+               kwayland-dev,
                libdbus-1-dev,
                libmtdev-dev,
                libpulse-mainloop-glib0,
